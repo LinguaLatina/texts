@@ -1,4 +1,4 @@
-# Texts
+# Lingua Latin project: text corpora
 
 A repository of rigorously curated citable Latin texts, part of the [Lingua Latina](https://lingualatina.github.io/) collaboration.
 
