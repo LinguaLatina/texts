@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Texts
+nav_order: 0
 ---
 
 
-## Format and editorial conventions
-
+- [organization of this repository](./files/)
+- [format and editorial conventions](./formats/)
+- [what's here](./catalog/)
 - orthographies and character usage
 - CEX editions
 
