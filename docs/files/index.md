@@ -5,6 +5,7 @@ nav_order: 1
 ---
 
 
+# Organization of files
 
 Texts in CEX format are grouped in subdirectories by their orthography.
 
