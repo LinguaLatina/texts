@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Texts
+title: "Lingua Latina: citable texts"
 nav_order: 0
 ---
 
