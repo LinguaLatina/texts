@@ -1,6 +1,5 @@
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.latin._
-//import edu.holycross.shot.mid.validator._
 import edu.holycross.shot.mid.orthography._
 
 
