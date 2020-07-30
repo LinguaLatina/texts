@@ -1,4 +1,9 @@
 // make a single markdown file suitable for converting to PDF
+//
+// Example invocation of pandoc to use a font including polytonic
+// Greek and generate a pdf:
+//
+// pandoc pliny.md -s -o pliny.pdf --pdf-engine=xelatex --variable mainfont="Lucida Grande"
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
 import java.io.PrintWriter
@@ -34,14 +39,4 @@ def markdown(corpus: Corpus, title: String ) = {
     currentLabel + nodeMd
   }
   s"# ${title}\n\n" + sections.mkString("\n\n")
-/*
-
-
-    val dirName = baseDir + "/" + current
-    val dir = new File(dirName)
-    dir.mkdir()
-    val fileName = dirName + "/index.md"
-    new PrintWriter(fileName){write(markdown); close;}
-    println("Write " + fileName + s" (${idx}/${pageUrns.size})")
-  */
 }
