@@ -1,9 +1,4 @@
 ---
-layout: page
-title: Organization of files
-nav_order: 1
----
-
 
 # Organization of files
 
