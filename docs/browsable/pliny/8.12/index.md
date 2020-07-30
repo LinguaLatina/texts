@@ -1,0 +1,30 @@
+# Pliny, Espitulae, letter 8.12
+
+greeting. C. PLINIUS MINICIANO SUO S.
+
+
+
+1. Hunc solum diem excuso: recitaturus est Titinius Capito, quem ego audire nescio magis debeam an cupiam. Vir est optimus et inter praecipua saeculi ornamenta numerandus. Colit studia, studiosos amat fovet provehit, multorum qui aliqua componunt portus sinus gremium, omnium exemplum, ipsarum denique litterarum iam senescentium reductor ac reformator.
+
+
+
+2. Domum suam recitantibus praebet, auditoria non apud se tantum benignitate mira frequentat; mihi certe, si modo in urbe, defuit numquam. Porro tanto turpius gratiam non referre, quanto honestior causa referendae.
+
+
+
+3. An si litibus tererer, obstrictum esse me crederem obeunti vadimonia mea, nunc, quia mihi omne negotium omnis in studiis cura, minus obligor tanta sedulitate celebranti, in quo obligari ego, ne dicam solo, certe maxime possum?
+
+
+
+4. Quod si illi nullam vicem nulla quasi mutua officia deberem, sollicitarer tamen vel ingenio hominis pulcherrimo et maxime et in summa severitate dulcissimo, vel honestate materiae. Scribit exitus illustrium virorum, in his quorundam mihi carissimorum.
+
+
+
+5. Videor ergo fungi pio munere, quorumque exsequias celebrare non licuit, horum quasi funebribus laudationibus seris quidem sed tanto magis veris interesse. Vale.
+
+
+
+---
+
+| --- | --- |
+| previous: [8.11](../8.11/) | next: [8.13](../8.13/) |
