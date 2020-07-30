@@ -40,7 +40,7 @@ def navlinks(prev: String, nxt: String) : String = {
 // Compose markdown for a single page.
 def composePage(title: String, prev: String, next: String, nodes: Vector[CitableNode], includeYaml: Boolean) : String = {
   val hdr = if (includeYaml) { header(title) } else {
-    s"# $${title}\n\n"
+    s"# ${title}\n\n"
    }
   val body = nodes.map(n => formatNode(n)).mkString("\n\n")
   val footer: String = navlinks(prev, next)
