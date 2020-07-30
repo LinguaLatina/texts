@@ -2,6 +2,7 @@
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.cite._
 import java.io.PrintWriter
+import java.io.File
 
 // Save yourself a little typing by predefining
 // these file names:
@@ -38,7 +39,9 @@ def navlinks(prev: String, nxt: String) : String = {
 
 // Compose markdown for a single page.
 def composePage(title: String, prev: String, next: String, nodes: Vector[CitableNode], includeYaml: Boolean) : String = {
-  val hdr = if (includeYaml) { header(title) } else { "" }
+  val hdr = if (includeYaml) { header(title) } else {
+    s"# $${title}\n\n"
+   }
   val body = nodes.map(n => formatNode(n)).mkString("\n\n")
   val footer: String = navlinks(prev, next)
 
@@ -48,7 +51,7 @@ def composePage(title: String, prev: String, next: String, nodes: Vector[Citable
 
 // Compose a write to disk pages in markdown format for each
 // section of text.
-def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable", includeYaml: Boolean = false ) = {
+def writeCorpus(corpus: Corpus, title: String, baseDir: String = "browsable", includeYaml: Boolean = false ) = {
   // Collapse corpus by one level
   val pageUrns = corpus.nodes.map(_.urn.collapsePassageBy(1)).distinct
 
@@ -59,7 +62,10 @@ def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable", includ
     val pageCorpus = corpus ~~ pg
     val markdown = composePage(title  +  current, prev, next, pageCorpus.nodes, includeYaml)
 
-    val fileName = dir + "/" + current + ".md"
+    val dirName = baseDir + "/" + current
+    val dir = new File(dirName)
+    dir.mkdir()
+    val fileName = dirName + "/index.md"
     new PrintWriter(fileName){write(markdown); close;}
     println("Write " + fileName + s" (${idx}/${pageUrns.size})")
   }
