@@ -27,10 +27,10 @@ def formatNode(n: CitableNode) : String = {
 // Compose footer for a page.
 def navlinks(prev: String, nxt: String) : String = {
   val previousLink = if (prev.isEmpty) {"previous: -"} else {
-    s"previous: [prev](../${prev}/)"
+    s"previous: [${prev}](../${prev}/)"
   }
   val nextLink = if (nxt.isEmpty) {"next: -"} else {
-    s"next: [nxt](../${nxt}/)"
+    s"next: [${nxt}](../${nxt}/)"
   }
   s"| --- | --- |\n| ${previousLink} | ${nextLink} |"
 }
