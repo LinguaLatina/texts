@@ -54,5 +54,6 @@ def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable") = {
 
     val fileName = dir + "/" + current + ".md"
     new PrintWriter(fileName){write(markdown); close;}
+    println("Write " + fileName + " (${idx}/${pageUrns.size})")
   }
 }
