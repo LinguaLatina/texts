@@ -1,9 +1,3 @@
----
-layout: page
-title: "Lingua Latina: citable texts"
-nav_order: 0
----
-
 
 
 #  Lingua Latina: citable texts
