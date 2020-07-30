@@ -8,4 +8,7 @@ This repository hosts archival versions of the texts we analyze to develop the [
 
 - [organization of this repository](./files/)
 - [format and editorial conventions](./formats/)
-- [what's here](./catalog/)
+- what's here:
+    - [brief catalog](./catalog/)
+    - [browsable texts](./browsable texts/)
+      
