@@ -14,33 +14,39 @@ def corpus(fileName: String): Corpus = {
 }
 
 
-// Compose yml header
+// Compose yml header for a page
 def header (title: String): String = {
   s"---\nlayout: page\ntitle: ${title}\n---\n\n"
 }
 
+// Format a single citable node in markdown.
 def formatNode(n: CitableNode) : String = {
   s"${n.urn.passageComponent.split("\\.").last}. " + n.text + "\n\n"
 }
 
-def footer(prev: String, nxt: String) : String = {
+// Compose footer for a page.
+def navlinks(prev: String, nxt: String) : String = {
   val previousLink = if (prev.isEmpty) {"previous: -"} else {
-    s"previous: [prev](./${prev}/)"
+    s"previous: [prev](../${prev}/)"
   }
   val nextLink = if (nxt.isEmpty) {"next: -"} else {
-    s"next: [nxt](./${nxt}/)"
+    s"next: [nxt](../${nxt}/)"
   }
   s"| --- | --- |\n| ${previousLink} | ${nextLink} |"
 }
 
-def composePage(title: String, currPassage: String, prev: String, next: String, nodes: Vector[CitableNode]) : String = {
+
+// Compose markdown for a single page.
+def composePage(title: String, prev: String, next: String, nodes: Vector[CitableNode]) : String = {
   val hdr = header(title)
-  val body = nodes.map(n => formatNode(n))
-  val footer = (prev, next)
+  val body = nodes.map(n => formatNode(n)).mkString("\n\n")
+  val footer: String = navlinks(prev, next)
   hdr + body + "\n\n---\n\n" + footer
 }
 
 
+// Compose a write to disk pages in markdown format for each
+// section of text.
 def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable") = {
   // Collapse corpus by one level
   val pageUrns = corpus.nodes.map(_.urn.collapsePassageBy(1)).distinct
@@ -50,10 +56,10 @@ def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable") = {
     val prev = if (idx == 0) {""} else { pageUrns(idx - 1).passageComponent}
     val next = if (idx == (pageUrns.size - 1)) {""} else { pageUrns(idx + 1).passageComponent}
     val pageCorpus = corpus ~~ pg
-    val markdown = composePage(title, current, prev, next, pageCorpus.nodes)
+    val markdown = composePage(title  +  current, prev, next, pageCorpus.nodes)
 
     val fileName = dir + "/" + current + ".md"
     new PrintWriter(fileName){write(markdown); close;}
-    println("Write " + fileName + " (${idx}/${pageUrns.size})")
+    println("Write " + fileName + s" (${idx}/${pageUrns.size})")
   }
 }
