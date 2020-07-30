@@ -37,17 +37,18 @@ def navlinks(prev: String, nxt: String) : String = {
 
 
 // Compose markdown for a single page.
-def composePage(title: String, prev: String, next: String, nodes: Vector[CitableNode]) : String = {
-  val hdr = header(title)
+def composePage(title: String, prev: String, next: String, nodes: Vector[CitableNode], includeYaml: Boolean) : String = {
+  val hdr = if (includeYaml) { header(title) } else { "" }
   val body = nodes.map(n => formatNode(n)).mkString("\n\n")
   val footer: String = navlinks(prev, next)
+
   hdr + body + "\n\n---\n\n" + footer
 }
 
 
 // Compose a write to disk pages in markdown format for each
 // section of text.
-def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable") = {
+def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable", includeYaml: Boolean = false ) = {
   // Collapse corpus by one level
   val pageUrns = corpus.nodes.map(_.urn.collapsePassageBy(1)).distinct
 
@@ -56,7 +57,7 @@ def writeCorpus(corpus: Corpus, title: String, dir: String = "browsable") = {
     val prev = if (idx == 0) {""} else { pageUrns(idx - 1).passageComponent}
     val next = if (idx == (pageUrns.size - 1)) {""} else { pageUrns(idx + 1).passageComponent}
     val pageCorpus = corpus ~~ pg
-    val markdown = composePage(title  +  current, prev, next, pageCorpus.nodes)
+    val markdown = composePage(title  +  current, prev, next, pageCorpus.nodes, includeYaml)
 
     val fileName = dir + "/" + current + ".md"
     new PrintWriter(fileName){write(markdown); close;}
