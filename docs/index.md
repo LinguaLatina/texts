@@ -10,5 +10,4 @@ This repository hosts archival versions of the texts we analyze to develop the [
 - [format and editorial conventions](./formats/)
 - what's here:
     - [brief catalog](./catalog/)
-    - [browsable texts](./browsable texts/)
-      
+    - [browsable texts](./browsable/)
