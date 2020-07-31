@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 10.8
+# Pliny, Epistulae, letter 10.8
 
 greeting. C. PLINIUS TRAIANO IMPERATORI
 

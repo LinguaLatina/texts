@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.17
+# Pliny, Epistulae, letter 9.17
 
 greeting. C. PLINIUS GENITORI SUO S.
 

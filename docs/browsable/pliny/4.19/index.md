@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.19
+# Pliny, Epistulae, letter 4.19
 
 greeting. C. PLINIUS CALPURNIAE HISPULLAE SUAE S.
 

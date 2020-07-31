@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.1
+# Pliny, Epistulae, letter 8.1
 
 greeting. C. PLINIUS SEPTICIO SUO S.
 

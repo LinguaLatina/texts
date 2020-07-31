@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.17
+# Pliny, Epistulae, letter 2.17
 
 greeting. C. PLINIUS GALLO SUO S.
 

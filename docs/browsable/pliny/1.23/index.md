@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.23
+# Pliny, Epistulae, letter 1.23
 
 greeting. C. PLINIUS POMPEIO FALCONI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.15
+# Pliny, Epistulae, letter 8.15
 
 greeting. C. PLINIUS IUNIORI SUO S.
 

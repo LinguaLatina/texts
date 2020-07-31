@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.13
+# Pliny, Epistulae, letter 7.13
 
 greeting. C. PLINIUS FEROCI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.6
+# Pliny, Epistulae, letter 2.6
 
 greeting. C. PLINIUS AVITO SUO S.
 

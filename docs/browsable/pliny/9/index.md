@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9
+# Pliny, Epistulae, letter 9
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER NONVS
 

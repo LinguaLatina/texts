@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.12
+# Pliny, Epistulae, letter 3.12
 
 greeting. C. PLINIUS CATILIO SEVERO SUO S.
 

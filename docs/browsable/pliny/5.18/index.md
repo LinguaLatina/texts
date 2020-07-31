@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.18
+# Pliny, Epistulae, letter 5.18
 
 greeting. C. PLINIUS CALPURNIO MACRO SUO S.
 

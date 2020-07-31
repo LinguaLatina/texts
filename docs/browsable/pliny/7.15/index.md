@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.15
+# Pliny, Epistulae, letter 7.15
 
 greeting. C. PLINIUS SATURNINO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.27
+# Pliny, Epistulae, letter 4.27
 
 greeting. C. PLINIUS POMPEIO FALCONI SUO S.
 

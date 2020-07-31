@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.19
+# Pliny, Epistulae, letter 5.19
 
 greeting. C. PLINIUS VALERIO PAULINO SUO S.
 

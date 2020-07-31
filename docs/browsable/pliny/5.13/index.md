@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.13
+# Pliny, Epistulae, letter 5.13
 
 greeting. C. PLINIUS <IULIO> VALERIANO SUO S.
 

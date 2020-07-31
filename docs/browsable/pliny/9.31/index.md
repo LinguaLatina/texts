@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.31
+# Pliny, Epistulae, letter 9.31
 
 greeting. C. PLINIUS SARDO SUO S.
 

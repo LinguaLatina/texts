@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.11
+# Pliny, Epistulae, letter 1.11
 
 greeting. C. PLINIUS FABIO IUSTO SUO S.
 

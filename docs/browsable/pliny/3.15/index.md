@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.15
+# Pliny, Epistulae, letter 3.15
 
 greeting. C. PLINIUS SILIO PROCULO SUO S.
 

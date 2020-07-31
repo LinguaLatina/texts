@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.18
+# Pliny, Epistulae, letter 1.18
 
 greeting. C. PLINIUS SUETONIO TRANQUILLO SUO S.
 

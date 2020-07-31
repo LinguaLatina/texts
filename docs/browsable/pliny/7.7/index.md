@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.7
+# Pliny, Epistulae, letter 7.7
 
 greeting. C. PLINIUS SATURNINO SUO S.
 

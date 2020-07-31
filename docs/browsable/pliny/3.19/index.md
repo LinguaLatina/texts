@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.19
+# Pliny, Epistulae, letter 3.19
 
 greeting. C. PLINIUS CALVISIO RUFO SUO S.
 

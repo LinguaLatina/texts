@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.17
+# Pliny, Epistulae, letter 3.17
 
 greeting. C. PLINIUS IULIO SERVIANO SUO S.
 

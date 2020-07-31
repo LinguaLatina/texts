@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.20
+# Pliny, Epistulae, letter 7.20
 
 greeting. C. PLINIUS TACITO SUO S.
 

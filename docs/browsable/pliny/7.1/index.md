@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.1
+# Pliny, Epistulae, letter 7.1
 
 greeting. C. PLINIUS GEMINO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.32
+# Pliny, Epistulae, letter 6.32
 
 greeting. C. PLINIUS QUINTILIANO SUO S.
 

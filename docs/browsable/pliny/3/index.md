@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3
+# Pliny, Epistulae, letter 3
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER TERTIVS
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.4
+# Pliny, Epistulae, letter 8.4
 
 greeting. C. PLINIUS CANINIO SUO S.
 

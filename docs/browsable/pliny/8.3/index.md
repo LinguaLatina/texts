@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.3
+# Pliny, Epistulae, letter 8.3
 
 greeting. C. PLINIUS SPARSO SUO S.
 

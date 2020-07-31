@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.20
+# Pliny, Epistulae, letter 5.20
 
 greeting. C. PLINIUS CORNELIO URSO SUO S.
 

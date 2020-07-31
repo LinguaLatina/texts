@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.13
+# Pliny, Epistulae, letter 6.13
 
 greeting. C. PLINIUS URSO SUO S.
 

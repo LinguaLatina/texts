@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.32
+# Pliny, Epistulae, letter 9.32
 
 greeting. C. PLINIUS TITIANO SUO S.
 

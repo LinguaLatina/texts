@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.12
+# Pliny, Epistulae, letter 4.12
 
 greeting. C. PLINIUS MATURO ARRIANO SUO S.
 

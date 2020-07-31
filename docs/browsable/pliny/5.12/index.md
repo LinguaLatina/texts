@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.12
+# Pliny, Epistulae, letter 5.12
 
 greeting. C. PLINIUS TERENTIO SCAURO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.19
+# Pliny, Epistulae, letter 2.19
 
 greeting. C. PLINIUS CERIALI SUO S.
 

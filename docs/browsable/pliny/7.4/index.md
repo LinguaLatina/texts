@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.4
+# Pliny, Epistulae, letter 7.4
 
 greeting. C. PLINIUS PONTIO SUO S.
 

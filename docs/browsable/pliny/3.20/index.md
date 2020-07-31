@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.20
+# Pliny, Epistulae, letter 3.20
 
 greeting. C. PLINIUS MAESIO MAXIMO SUO S.
 

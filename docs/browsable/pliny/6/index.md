@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6
+# Pliny, Epistulae, letter 6
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER SEXTVS
 

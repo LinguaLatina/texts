@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.7
+# Pliny, Epistulae, letter 3.7
 
 greeting. C. PLINIUS CANINIO RUFO SUO S.
 

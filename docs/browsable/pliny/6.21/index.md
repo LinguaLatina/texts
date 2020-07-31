@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.21
+# Pliny, Epistulae, letter 6.21
 
 greeting. C. PLINIUS CANINIO SUO S.
 

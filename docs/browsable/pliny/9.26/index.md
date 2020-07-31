@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.26
+# Pliny, Epistulae, letter 9.26
 
 greeting. C. PLINIUS LUPERCO SUO S.
 

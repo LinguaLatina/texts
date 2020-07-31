@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.10
+# Pliny, Epistulae, letter 1.10
 
 greeting. C. PLINIUS ATTIO CLEMENTI SUO S.
 

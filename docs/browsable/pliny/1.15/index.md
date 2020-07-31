@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.15
+# Pliny, Epistulae, letter 1.15
 
 greeting. C. PLINIUS SEPTICIO CLARO SUO S.
 

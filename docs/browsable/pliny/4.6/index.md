@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.6
+# Pliny, Epistulae, letter 4.6
 
 greeting. C. PLINIUS IULIO NASONI SUO S.
 

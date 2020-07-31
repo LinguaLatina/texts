@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.19
+# Pliny, Epistulae, letter 9.19
 
 greeting. C. PLINIUS RUSONI SUO S.
 

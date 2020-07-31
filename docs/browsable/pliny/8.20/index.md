@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.20
+# Pliny, Epistulae, letter 8.20
 
 greeting. C. PLINIUS GALLO SUO S.
 

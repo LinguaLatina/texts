@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.9
+# Pliny, Epistulae, letter 7.9
 
 greeting. C. PLINIUS FUSCO SUO S.
 

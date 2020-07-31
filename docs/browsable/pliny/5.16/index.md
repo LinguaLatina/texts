@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.16
+# Pliny, Epistulae, letter 5.16
 
 greeting. C. PLINIUS AEFULANO MARCELLINO SUO S.
 

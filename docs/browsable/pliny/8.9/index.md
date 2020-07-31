@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.9
+# Pliny, Epistulae, letter 8.9
 
 greeting. C. PLINIUS URSO SUO S.
 

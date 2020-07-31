@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.21
+# Pliny, Epistulae, letter 9.21
 
 greeting. C. PLINIUS SABINIANO SUO S.
 

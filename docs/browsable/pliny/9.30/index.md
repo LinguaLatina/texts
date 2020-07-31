@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.30
+# Pliny, Epistulae, letter 9.30
 
 greeting. C. PLINIUS GEMINO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.25
+# Pliny, Epistulae, letter 4.25
 
 greeting. C. PLINIUS MAESIO MAXIMO SUO S.
 

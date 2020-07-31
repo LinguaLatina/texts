@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.11
+# Pliny, Epistulae, letter 6.11
 
 greeting. C. PLINIUS MAXIMO SUO S.
 

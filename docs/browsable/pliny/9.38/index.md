@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.38
+# Pliny, Epistulae, letter 9.38
 
 greeting. C. PLINIUS SATURNINO SUO S.
 

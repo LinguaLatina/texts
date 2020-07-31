@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.3
+# Pliny, Epistulae, letter 1.3
 
 greeting. C. PLINIUS CANINIO RUFO SUO S.
 

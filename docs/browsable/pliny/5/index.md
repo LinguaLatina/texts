@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5
+# Pliny, Epistulae, letter 5
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER QVINTVS
 

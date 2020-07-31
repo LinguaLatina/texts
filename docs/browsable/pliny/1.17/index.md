@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.17
+# Pliny, Epistulae, letter 1.17
 
 greeting. C. PLINIUS CORNELIO TITIANO SUO S.
 

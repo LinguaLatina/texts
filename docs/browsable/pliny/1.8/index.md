@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.8
+# Pliny, Epistulae, letter 1.8
 
 greeting. C. PLINIUS POMPEIO SATURNINO SUO S.
 

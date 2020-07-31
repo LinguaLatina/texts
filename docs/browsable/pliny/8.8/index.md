@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.8
+# Pliny, Epistulae, letter 8.8
 
 greeting. C. PLINIUS ROMANO SUO S.
 

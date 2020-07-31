@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.10
+# Pliny, Epistulae, letter 2.10
 
 greeting. C. PLINIUS OCTAVIO SUO S.
 

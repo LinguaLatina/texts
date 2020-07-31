@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.9
+# Pliny, Epistulae, letter 5.9
 
 greeting. C. PLINIUS SEMPRONIO RUFO SUO S.
 

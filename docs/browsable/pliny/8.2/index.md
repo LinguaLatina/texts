@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.2
+# Pliny, Epistulae, letter 8.2
 
 greeting. C. PLINIUS CALVISIO SUO S.
 

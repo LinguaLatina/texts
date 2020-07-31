@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.13
+# Pliny, Epistulae, letter 2.13
 
 greeting. C. PLINIUS PRISCO SUO S.
 

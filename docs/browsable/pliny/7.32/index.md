@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.32
+# Pliny, Epistulae, letter 7.32
 
 greeting. C. PLINIUS FABATO PROSOCERO SUO S.
 

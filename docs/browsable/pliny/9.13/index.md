@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.13
+# Pliny, Epistulae, letter 9.13
 
 greeting. C. PLINIUS QUADRATO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.8
+# Pliny, Epistulae, letter 3.8
 
 greeting. C. PLINIUS SUETONIO TRANQUILLO SUO S.
 

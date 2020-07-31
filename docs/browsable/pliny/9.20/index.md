@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.20
+# Pliny, Epistulae, letter 9.20
 
 greeting. C. PLINIUS VENATORI SUO S.
 

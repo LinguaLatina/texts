@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.14
+# Pliny, Epistulae, letter 2.14
 
 greeting. C. PLINIUS MAXIMO SUO S.
 

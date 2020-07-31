@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.6
+# Pliny, Epistulae, letter 7.6
 
 greeting. C. PLINIUS MACRINO SUO S.
 

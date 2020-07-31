@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.19
+# Pliny, Epistulae, letter 8.19
 
 greeting. C. PLINIUS MAXIMO SUO S.
 

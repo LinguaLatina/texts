@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.10
+# Pliny, Epistulae, letter 8.10
 
 greeting. C. PLINIUS FABATO PROSOCERO SUO S.
 

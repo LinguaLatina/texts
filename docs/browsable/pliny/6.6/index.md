@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.6
+# Pliny, Epistulae, letter 6.6
 
 greeting. C. PLINIUS FUNDANO SUO S.
 

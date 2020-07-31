@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.5
+# Pliny, Epistulae, letter 1.5
 
 greeting. C. PLINIUS VOCONIO ROMANO SUO S.
 

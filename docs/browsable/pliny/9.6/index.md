@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.6
+# Pliny, Epistulae, letter 9.6
 
 greeting. C. PLINIUS CALVISIO SUO S.
 

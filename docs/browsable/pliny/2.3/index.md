@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.3
+# Pliny, Epistulae, letter 2.3
 
 greeting. C. PLINIUS NEPOTI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.14
+# Pliny, Epistulae, letter 8.14
 
 greeting. C. PLINIUS ARISTONI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.33
+# Pliny, Epistulae, letter 9.33
 
 greeting. C. PLINIUS CANINIO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.2
+# Pliny, Epistulae, letter 2.2
 
 greeting. C. PLINIUS PAULINO SUO S.
 

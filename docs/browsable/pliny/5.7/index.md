@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.7
+# Pliny, Epistulae, letter 5.7
 
 greeting. C. PLINIUS CALVISIO RUFO SUO S.
 

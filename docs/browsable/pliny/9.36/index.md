@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.36
+# Pliny, Epistulae, letter 9.36
 
 greeting. C. PLINIUS FUSCO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.22
+# Pliny, Epistulae, letter 9.22
 
 greeting. C. PLINIUS SEVERO SUO S.
 

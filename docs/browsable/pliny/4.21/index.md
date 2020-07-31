@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.21
+# Pliny, Epistulae, letter 4.21
 
 greeting. C. PLINIUS VELIO CERIALI SUO S.
 

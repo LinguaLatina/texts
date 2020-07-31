@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.18
+# Pliny, Epistulae, letter 3.18
 
 greeting. C. PLINIUS VIBIO SEVERO SUO S.
 

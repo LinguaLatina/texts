@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.20
+# Pliny, Epistulae, letter 2.20
 
 greeting. C. PLINIUS CALCISIO SUO S.
 

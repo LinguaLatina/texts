@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.2
+# Pliny, Epistulae, letter 3.2
 
 greeting. C. PLINIUS VIBIO MAXIMO SUO S.
 

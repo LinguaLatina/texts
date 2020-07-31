@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.4
+# Pliny, Epistulae, letter 2.4
 
 greeting. C. PLINIUS CALVINAE SUAE S.
 

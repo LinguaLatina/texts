@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.29
+# Pliny, Epistulae, letter 9.29
 
 greeting. C. PLINIUS RUSTICO SUO S.
 

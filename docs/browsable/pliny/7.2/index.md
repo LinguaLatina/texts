@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.2
+# Pliny, Epistulae, letter 7.2
 
 greeting. C. PLINIUS IUSTO SUO S.
 

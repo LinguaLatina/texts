@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.10
+# Pliny, Epistulae, letter 6.10
 
 greeting. C. PLINIUS ALBINO SUO S.
 

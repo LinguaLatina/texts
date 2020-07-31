@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.6
+# Pliny, Epistulae, letter 3.6
 
 greeting. C. PLINIUS ANNIO SEVERO SUO S.
 

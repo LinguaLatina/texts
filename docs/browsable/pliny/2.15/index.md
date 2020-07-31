@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.15
+# Pliny, Epistulae, letter 2.15
 
 greeting. C. PLINIUS VALERIANO SUO S.
 

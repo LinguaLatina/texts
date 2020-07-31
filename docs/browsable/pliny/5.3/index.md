@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.3
+# Pliny, Epistulae, letter 5.3
 
 greeting. C. PLINIUS TITIO ARISTONI SUO S.
 

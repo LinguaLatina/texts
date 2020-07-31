@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.16
+# Pliny, Epistulae, letter 2.16
 
 greeting. C. PLINIUS ANNIO SUO S.
 

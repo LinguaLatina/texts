@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.4
+# Pliny, Epistulae, letter 3.4
 
 greeting. C. PLINIUS CAECILIO MACRINO SUO S.
 

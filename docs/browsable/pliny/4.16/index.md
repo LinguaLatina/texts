@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.16
+# Pliny, Epistulae, letter 4.16
 
 greeting. C. PLINIUS VALERIO PAULINO SUO S.
 

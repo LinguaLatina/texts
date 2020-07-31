@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.13
+# Pliny, Epistulae, letter 8.13
 
 greeting. C. PLINIUS GENIALI SUO S.
 

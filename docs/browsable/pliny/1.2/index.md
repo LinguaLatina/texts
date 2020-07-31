@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.2
+# Pliny, Epistulae, letter 1.2
 
 greeting. C. PLINIUS <MATURO> ARRIANO SUO S.
 

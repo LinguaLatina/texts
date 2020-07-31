@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2
+# Pliny, Epistulae, letter 2
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER SECVNDVS
 

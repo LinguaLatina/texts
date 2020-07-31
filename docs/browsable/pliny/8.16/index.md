@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.16
+# Pliny, Epistulae, letter 8.16
 
 greeting. C. PLINIUS PATERNO SUO S.
 

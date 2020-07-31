@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.26
+# Pliny, Epistulae, letter 4.26
 
 greeting. C. PLINIUS MAECILIO NEPOTI SUO S.
 

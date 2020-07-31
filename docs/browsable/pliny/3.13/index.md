@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.13
+# Pliny, Epistulae, letter 3.13
 
 greeting. C. PLINIUS VOCONIO ROMANO SUO S.
 

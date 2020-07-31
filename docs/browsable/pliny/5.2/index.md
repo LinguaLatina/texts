@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.2
+# Pliny, Epistulae, letter 5.2
 
 greeting. C. PLINIUS CALPURNIO FLACCO SUO S.
 

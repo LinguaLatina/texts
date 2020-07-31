@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.3
+# Pliny, Epistulae, letter 7.3
 
 greeting. C. PLINIUS PRAESENTI SUO S.
 

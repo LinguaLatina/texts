@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.14
+# Pliny, Epistulae, letter 5.14
 
 greeting. C. PLINIUS PONTIO ALLIFANO SUO S.
 

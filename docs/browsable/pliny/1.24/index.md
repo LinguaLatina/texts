@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.24
+# Pliny, Epistulae, letter 1.24
 
 greeting. C. PLINIUS BAEBIO HISPANO SUO S.
 

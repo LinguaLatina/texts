@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.12
+# Pliny, Epistulae, letter 6.12
 
 greeting. C. PLINIUS FABATO PROSOCERO SUO S.
 

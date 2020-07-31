@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.19
+# Pliny, Epistulae, letter 6.19
 
 greeting. C. PLINIUS NEPOTI SUO S.
 

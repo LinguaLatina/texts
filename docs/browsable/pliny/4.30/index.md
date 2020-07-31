@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.30
+# Pliny, Epistulae, letter 4.30
 
 greeting. C. PLINIUS LICINIO SURAE SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.4
+# Pliny, Epistulae, letter 4.4
 
 greeting. C. PLINIUS SOSIO SENECIONI SUO S.
 

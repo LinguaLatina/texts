@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.12
+# Pliny, Epistulae, letter 7.12
 
 greeting. C. PLINIUS MINICIO SUO S.
 

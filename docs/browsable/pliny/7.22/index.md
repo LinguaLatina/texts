@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.22
+# Pliny, Epistulae, letter 7.22
 
 greeting. C. PLINIUS FALCONI SUO S.
 

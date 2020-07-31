@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.29
+# Pliny, Epistulae, letter 6.29
 
 greeting. C. PLINIUS QUADRATO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.11
+# Pliny, Epistulae, letter 5.11
 
 greeting. C. PLINIUS CALPURNIO FABATO PROSOCERO SUO S.
 

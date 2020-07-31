@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.5
+# Pliny, Epistulae, letter 9.5
 
 greeting. C. PLINIUS TIRONI SUO S.
 

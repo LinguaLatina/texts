@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.33
+# Pliny, Epistulae, letter 7.33
 
 greeting. C. PLINIUS TACITO SUO S.
 

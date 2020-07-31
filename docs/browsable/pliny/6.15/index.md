@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.15
+# Pliny, Epistulae, letter 6.15
 
 greeting. C. PLINIUS ROMANO SUO S.
 

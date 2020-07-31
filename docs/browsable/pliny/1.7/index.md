@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.7
+# Pliny, Epistulae, letter 1.7
 
 greeting. C. PLINIUS OCTAVIO RUFO SUO S.
 

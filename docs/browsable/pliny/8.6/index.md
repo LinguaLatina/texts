@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.6
+# Pliny, Epistulae, letter 8.6
 
 greeting. C. PLINIUS MONTANO SUO S.
 

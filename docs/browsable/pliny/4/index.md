@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4
+# Pliny, Epistulae, letter 4
 
 title. C. PLINII CAECILII SECVNDI EPISTVLARVM LIBER QVARTVS
 

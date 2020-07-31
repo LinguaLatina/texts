@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.4
+# Pliny, Epistulae, letter 9.4
 
 greeting. C. PLINIUS MACRINO SUO S.
 

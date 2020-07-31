@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.24
+# Pliny, Epistulae, letter 6.24
 
 greeting. C. PLINIUS MACRO SUO S.
 

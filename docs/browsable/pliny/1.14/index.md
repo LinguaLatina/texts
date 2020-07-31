@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.14
+# Pliny, Epistulae, letter 1.14
 
 greeting. C. PLINIUS IUNIO MAURICO SUO S.
 

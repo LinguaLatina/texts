@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.3
+# Pliny, Epistulae, letter 3.3
 
 greeting. C. PLINIUS CORELLIAE HISPULLAE SUAE S.
 

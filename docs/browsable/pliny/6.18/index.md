@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.18
+# Pliny, Epistulae, letter 6.18
 
 greeting. C. PLINIUS SABINO SUO S.
 

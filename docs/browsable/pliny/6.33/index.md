@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.33
+# Pliny, Epistulae, letter 6.33
 
 greeting. C. PLINIUS ROMANO SUO S.
 

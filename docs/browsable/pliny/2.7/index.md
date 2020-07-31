@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.7
+# Pliny, Epistulae, letter 2.7
 
 greeting. C. PLINIUS MACRINO SUO S.
 

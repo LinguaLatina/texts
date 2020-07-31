@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.9
+# Pliny, Epistulae, letter 9.9
 
 greeting. C. PLINIUS COLONO SUO S.
 

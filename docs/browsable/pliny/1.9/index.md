@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.9
+# Pliny, Epistulae, letter 1.9
 
 greeting. C. PLINIUS MINICIO FUNDANO SUO S.
 

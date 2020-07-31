@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.21
+# Pliny, Epistulae, letter 7.21
 
 greeting. C. PLINIUS CORNUTO SUO S.
 

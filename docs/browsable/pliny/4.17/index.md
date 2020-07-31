@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.17
+# Pliny, Epistulae, letter 4.17
 
 greeting. C. PLINIUS CLUSINIO GALLO SUO S.
 

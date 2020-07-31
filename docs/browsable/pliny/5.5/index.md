@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.5
+# Pliny, Epistulae, letter 5.5
 
 greeting. C. PLINIUS NOVIO MAXIMO SUO S.
 

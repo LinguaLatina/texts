@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.9
+# Pliny, Epistulae, letter 3.9
 
 greeting. C. PLINIUS CORNELIO MINICIANO SUO S.
 

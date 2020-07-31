@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.24
+# Pliny, Epistulae, letter 4.24
 
 greeting. C. PLINIUS FABIO VALENTI SUO S.
 

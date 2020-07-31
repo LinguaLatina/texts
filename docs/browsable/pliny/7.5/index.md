@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.5
+# Pliny, Epistulae, letter 7.5
 
 greeting. C. PLINIUS CALPURNIAE SUAE S.
 

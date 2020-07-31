@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.4
+# Pliny, Epistulae, letter 6.4
 
 greeting. C. PLINIUS CALPURNIAE SUAE S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.14
+# Pliny, Epistulae, letter 9.14
 
 greeting. C. PLINIUS TACITO SUO S.
 

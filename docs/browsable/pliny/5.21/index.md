@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.21
+# Pliny, Epistulae, letter 5.21
 
 greeting. C. PLINIUS POMPEIO SATURNINO SUO S.
 

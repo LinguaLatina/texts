@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.16
+# Pliny, Epistulae, letter 1.16
 
 greeting. C. PLINIUS ERUCIO SUO S.
 

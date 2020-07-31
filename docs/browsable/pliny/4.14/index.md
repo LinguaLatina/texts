@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.14
+# Pliny, Epistulae, letter 4.14
 
 greeting. C. PLINIUS [DECIMO] PATERNO SUO S.
 

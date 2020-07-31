@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.3
+# Pliny, Epistulae, letter 6.3
 
 greeting. C. PLINIUS VERO SUO S.
 

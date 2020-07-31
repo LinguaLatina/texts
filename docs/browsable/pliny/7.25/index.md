@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.25
+# Pliny, Epistulae, letter 7.25
 
 greeting. C. PLINIUS RUFO SUO S.
 

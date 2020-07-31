@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.16
+# Pliny, Epistulae, letter 6.16
 
 greeting. C. PLINIUS TACITO SUO S.
 

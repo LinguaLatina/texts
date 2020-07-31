@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.17
+# Pliny, Epistulae, letter 7.17
 
 greeting. C. PLINIUS CELERI SUO S.
 

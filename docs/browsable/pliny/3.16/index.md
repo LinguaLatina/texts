@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.16
+# Pliny, Epistulae, letter 3.16
 
 greeting. C. PLINIUS NEPOTI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.3
+# Pliny, Epistulae, letter 9.3
 
 greeting. C. PLINIUS PAULINO SUO S.
 

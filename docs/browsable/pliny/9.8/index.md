@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.8
+# Pliny, Epistulae, letter 9.8
 
 greeting. C. PLINIUS AUGURINO SUO S.
 

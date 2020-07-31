@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.26
+# Pliny, Epistulae, letter 7.26
 
 greeting. C. PLINIUS MAXIMO SUO S.
 

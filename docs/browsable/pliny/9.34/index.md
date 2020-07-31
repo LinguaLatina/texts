@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.34
+# Pliny, Epistulae, letter 9.34
 
 greeting. C. PLINIUS TRANQUILLO SUO S.
 

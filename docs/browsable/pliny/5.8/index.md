@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.8
+# Pliny, Epistulae, letter 5.8
 
 greeting. C. PLINIUS TITINIO CAPITONI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.2
+# Pliny, Epistulae, letter 4.2
 
 greeting. C. PLINIUS ATTIO CLEMENTI SUO S.
 

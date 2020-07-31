@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.22
+# Pliny, Epistulae, letter 1.22
 
 greeting. C. PLINIUS CATILIO SEVERO SUO S.
 

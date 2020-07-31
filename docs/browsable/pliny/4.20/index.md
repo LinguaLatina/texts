@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.20
+# Pliny, Epistulae, letter 4.20
 
 greeting. C. PLINIUS NOVIO MAXIMO SUO S.
 

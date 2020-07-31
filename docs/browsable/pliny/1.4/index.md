@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.4
+# Pliny, Epistulae, letter 1.4
 
 greeting. C. PLINIUS POMPEIAE CELERINAE SOCRUI S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.5
+# Pliny, Epistulae, letter 4.5
 
 greeting. C. PLINIUS IULIO SPARSO SUO S.
 

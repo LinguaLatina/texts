@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.11
+# Pliny, Epistulae, letter 3.11
 
 greeting. C. PLINIUS IULIO GENITORI SUO S.
 

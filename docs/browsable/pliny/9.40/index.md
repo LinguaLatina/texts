@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.40
+# Pliny, Epistulae, letter 9.40
 
 greeting. C. PLINIUS FUSCO SUO S.
 

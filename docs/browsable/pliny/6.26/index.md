@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.26
+# Pliny, Epistulae, letter 6.26
 
 greeting. C. PLINIUS SERVIANO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.23
+# Pliny, Epistulae, letter 4.23
 
 greeting. C. PLINIUS POMPONIO BASSO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.6
+# Pliny, Epistulae, letter 5.6
 
 greeting. C. PLINIUS DOMITIO APOLLINARI SUO S.
 

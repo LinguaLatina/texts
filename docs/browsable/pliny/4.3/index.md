@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.3
+# Pliny, Epistulae, letter 4.3
 
 greeting. C. PLINIUS ARRIO ANTONINO SUO S.
 

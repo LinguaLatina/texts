@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.19
+# Pliny, Epistulae, letter 7.19
 
 greeting. C. PLINIUS PRISCO SUO S.
 

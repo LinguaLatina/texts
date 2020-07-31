@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.15
+# Pliny, Epistulae, letter 9.15
 
 greeting. C. PLINIUS FALCONI SUO S.
 

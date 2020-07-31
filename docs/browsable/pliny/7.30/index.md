@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.30
+# Pliny, Epistulae, letter 7.30
 
 greeting. C. PLINIUS GENITORI SUO S.
 

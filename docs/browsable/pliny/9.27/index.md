@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.27
+# Pliny, Epistulae, letter 9.27
 
 greeting. C. PLINIUS PATERNO SUO S.
 

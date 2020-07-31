@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.10
+# Pliny, Epistulae, letter 3.10
 
 greeting. C. PLINIUS VESTRICIO SPURINNAE SUO ET COTTIAE S.
 

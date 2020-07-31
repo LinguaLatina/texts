@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 10.44
+# Pliny, Epistulae, letter 10.44
 
 greeting. TRAIANUS PLINIO
 

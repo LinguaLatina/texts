@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.11
+# Pliny, Epistulae, letter 8.11
 
 greeting. C. PLINIUS HISPULLAE SUAE S.
 

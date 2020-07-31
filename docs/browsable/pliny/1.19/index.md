@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.19
+# Pliny, Epistulae, letter 1.19
 
 greeting. C. PLINIUS ROMATIO FIRMO SUO S.
 

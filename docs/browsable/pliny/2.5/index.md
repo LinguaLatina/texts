@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.5
+# Pliny, Epistulae, letter 2.5
 
 greeting. C. PLINIUS LUPERCO SUO S.
 

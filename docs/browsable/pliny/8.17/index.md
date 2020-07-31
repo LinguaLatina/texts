@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.17
+# Pliny, Epistulae, letter 8.17
 
 greeting. C. PLINIUS MACRINO SUO S.
 

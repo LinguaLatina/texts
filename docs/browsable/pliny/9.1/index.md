@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.1
+# Pliny, Epistulae, letter 9.1
 
 greeting. C. PLINIUS MAXIMO SUO S.
 

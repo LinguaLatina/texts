@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.28
+# Pliny, Epistulae, letter 6.28
 
 greeting. C. PLINIUS PONTIO SUO S.
 

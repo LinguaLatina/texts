@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.13
+# Pliny, Epistulae, letter 1.13
 
 greeting. C. PLINIUS SOSIO SENECIONI SUO S.
 

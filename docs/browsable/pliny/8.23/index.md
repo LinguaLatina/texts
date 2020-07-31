@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.23
+# Pliny, Epistulae, letter 8.23
 
 greeting. C. PLINIUS MARCELLINO SUO S.
 

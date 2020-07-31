@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.17
+# Pliny, Epistulae, letter 5.17
 
 greeting. C. PLINIUS VESTRICIO SPURINNAE SUO S.
 

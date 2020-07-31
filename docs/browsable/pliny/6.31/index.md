@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.31
+# Pliny, Epistulae, letter 6.31
 
 greeting. C. PLINIUS CORNELIANO SUO S.
 

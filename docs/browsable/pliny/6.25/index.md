@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.25
+# Pliny, Epistulae, letter 6.25
 
 greeting. C. PLINIUS HISPANO SUO S.
 

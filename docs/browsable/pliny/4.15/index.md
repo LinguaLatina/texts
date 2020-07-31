@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.15
+# Pliny, Epistulae, letter 4.15
 
 greeting. C. PLINIUS MINICIO FUNDANO SUO S.
 

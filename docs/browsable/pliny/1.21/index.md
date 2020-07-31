@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.21
+# Pliny, Epistulae, letter 1.21
 
 greeting. C. PLINIUS PLINIO PATERNO SUO S.
 

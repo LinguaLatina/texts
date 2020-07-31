@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.39
+# Pliny, Epistulae, letter 9.39
 
 greeting. C. PLINIUS MUSTIO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.29
+# Pliny, Epistulae, letter 7.29
 
 greeting. C. PLINIUS MONTANO SUO S.
 

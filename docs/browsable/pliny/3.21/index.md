@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.21
+# Pliny, Epistulae, letter 3.21
 
 greeting. C. Plinius Cornelio Prisco suo s.
 

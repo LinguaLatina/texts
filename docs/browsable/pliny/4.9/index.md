@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.9
+# Pliny, Epistulae, letter 4.9
 
 greeting. C. PLINIUS CORNELIO URSO SUO S.
 

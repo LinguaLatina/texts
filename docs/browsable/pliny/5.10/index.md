@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.10
+# Pliny, Epistulae, letter 5.10
 
 greeting. C. PLINIUS SUETONIO TRANQUILLO SUO S.
 

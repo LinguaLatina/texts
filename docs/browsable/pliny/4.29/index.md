@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.29
+# Pliny, Epistulae, letter 4.29
 
 greeting. C. PLINIUS ROMATIO FIRMO SUO S.
 

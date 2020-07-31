@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.8
+# Pliny, Epistulae, letter 6.8
 
 greeting. C. PLINIUS PRISCO SUO S.
 

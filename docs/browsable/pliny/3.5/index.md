@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.5
+# Pliny, Epistulae, letter 3.5
 
 greeting. C. PLINIUS BAEBIO MACRO SUO S.
 

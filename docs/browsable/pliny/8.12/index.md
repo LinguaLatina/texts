@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.12
+# Pliny, Epistulae, letter 8.12
 
 greeting. C. PLINIUS MINICIANO SUO S.
 

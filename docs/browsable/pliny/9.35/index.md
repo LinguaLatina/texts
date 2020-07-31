@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.35
+# Pliny, Epistulae, letter 9.35
 
 greeting. C. PLINIUS ÅATRlOÅ SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.1
+# Pliny, Epistulae, letter 5.1
 
 greeting. C. PLINIUS ANNIO SEVERO SUO S.
 

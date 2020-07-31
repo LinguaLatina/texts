@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.28
+# Pliny, Epistulae, letter 7.28
 
 greeting. C. PLINIUS SEPTICIO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.10
+# Pliny, Epistulae, letter 4.10
 
 greeting. C. PLINIUS STATIO SABINO SUO S.
 

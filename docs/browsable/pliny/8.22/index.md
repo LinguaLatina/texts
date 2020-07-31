@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.22
+# Pliny, Epistulae, letter 8.22
 
 greeting. C. PLINIUS GEMINO SUO S.
 

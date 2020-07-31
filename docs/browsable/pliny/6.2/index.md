@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.2
+# Pliny, Epistulae, letter 6.2
 
 greeting. C. PLINIUS ARRIANO SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.7
+# Pliny, Epistulae, letter 4.7
 
 greeting. C. PLINIUS CATIO LEPIDO SUO S.
 

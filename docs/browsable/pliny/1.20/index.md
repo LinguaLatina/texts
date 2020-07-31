@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.20
+# Pliny, Epistulae, letter 1.20
 
 greeting. C. PLINIUS CORNELIO TACITO SUO S.
 

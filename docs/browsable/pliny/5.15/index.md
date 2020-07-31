@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 5.15
+# Pliny, Epistulae, letter 5.15
 
 greeting. C. PLINIUS ARRIO ANTONINO SUO S.
 

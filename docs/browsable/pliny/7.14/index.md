@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.14
+# Pliny, Epistulae, letter 7.14
 
 greeting. C. PLINIUS CORELLIAE SUAE S.
 

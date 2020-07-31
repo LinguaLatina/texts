@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.12
+# Pliny, Epistulae, letter 9.12
 
 greeting. C. PLINIUS IUNIORI SUO S.
 

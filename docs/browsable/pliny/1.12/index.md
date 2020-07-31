@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 1.12
+# Pliny, Epistulae, letter 1.12
 
 greeting. C. PLINIUS CALESTRIO TIRONI SUO S.
 

@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 3.14
+# Pliny, Epistulae, letter 3.14
 
 greeting. C. PLINIUS ACILIO SUO S.
 

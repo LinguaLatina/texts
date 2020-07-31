@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.18
+# Pliny, Epistulae, letter 8.18
 
 greeting. C. PLINIUS RUFINO SUO S.
 

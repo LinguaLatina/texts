@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.13
+# Pliny, Epistulae, letter 4.13
 
 greeting. C. PLINIUS CORNELIO TACITO SUO S.
 

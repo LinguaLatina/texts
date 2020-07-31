@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.18
+# Pliny, Epistulae, letter 2.18
 
 greeting. C. PLINIUS MAURICO SUO S.
 

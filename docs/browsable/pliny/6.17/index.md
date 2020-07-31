@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.17
+# Pliny, Epistulae, letter 6.17
 
 greeting. C. PLINIUS RESTITUTO SUO S.
 

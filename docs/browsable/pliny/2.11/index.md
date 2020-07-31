@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.11
+# Pliny, Epistulae, letter 2.11
 
 greeting. C. PLINIUS ARRIANO SUO S.
 

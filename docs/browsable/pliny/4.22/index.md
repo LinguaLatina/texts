@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 4.22
+# Pliny, Epistulae, letter 4.22
 
 greeting. C. PLINIUS SEMPRONIO RUFO SUO S.
 

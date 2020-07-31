@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 7.27
+# Pliny, Epistulae, letter 7.27
 
 greeting. C. PLINIUS SURAE SUO S.
 

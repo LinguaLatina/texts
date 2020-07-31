@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.27
+# Pliny, Epistulae, letter 6.27
 
 greeting. C. PLINIUS SEVERO SUO S.
 

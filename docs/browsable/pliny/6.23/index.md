@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.23
+# Pliny, Epistulae, letter 6.23
 
 greeting. C. PLINIUS TRIARIO SUO S.
 

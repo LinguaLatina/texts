@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 8.21
+# Pliny, Epistulae, letter 8.21
 
 greeting. C. PLINIUS ARRIANO SUO S.
 

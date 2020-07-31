@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 9.25
+# Pliny, Epistulae, letter 9.25
 
 greeting. C. PLINIUS MAMILIANO SUO S.
 

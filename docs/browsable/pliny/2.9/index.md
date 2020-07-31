@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 2.9
+# Pliny, Epistulae, letter 2.9
 
 greeting. C. PLINIUS APOLLINARI SUO S.
 

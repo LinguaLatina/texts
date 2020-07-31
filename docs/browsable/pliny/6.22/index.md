@@ -1,4 +1,4 @@
-# Pliny, Espitulae, letter 6.22
+# Pliny, Epistulae, letter 6.22
 
 greeting. C. PLINIUS TIRONI SUO S.
 
