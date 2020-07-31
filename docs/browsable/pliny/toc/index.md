@@ -1,4 +1,4 @@
-# "Pliny, *Epistulae*: contents"
+# Pliny, *Epistulae*: contents
 
 - C. PLINIUS SEPTICIO <CLARO> SUO S.: [1.1](../1.1/)
 - C. PLINIUS <MATURO> ARRIANO SUO S.: [1.2](../1.2/)
