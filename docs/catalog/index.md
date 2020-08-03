@@ -1,8 +1,3 @@
----
-layout: page
-title: "What's here"
-nav_order: 2
----
 
 
 # Texts available in CEX format

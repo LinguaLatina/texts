@@ -1,8 +1,4 @@
----
-layout: page
-title: Formats and editorial conventions
-nav_order: 2
----
+
 
 # Formats and editorial conventions
 
