@@ -17,5 +17,4 @@
 
 - [organization of this repository](./files/)
 - [format and editorial conventions](./formats/)
-- what's here:
-    - [brief catalog](./catalog/)
+- what's here: a [brief catalog](./catalog/)
