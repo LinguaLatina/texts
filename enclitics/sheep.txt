@@ -463,12 +463,6 @@ pingendas-que
 pingui-que
 plane-que
 plenus-que
-plera-que
-plerae-que
-pleri-que
-pleris-que
-pleros-que
-plerum-que
 plura-que
 plures-que
 pluribus-que
@@ -631,7 +625,6 @@ umbrarum-que
 unam-que
 unctus-que,
 undecum-que
-undi-que
 unum-que
 urbis-que
 ut-que

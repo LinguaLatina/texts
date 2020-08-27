@@ -12,6 +12,12 @@ obse-quentissime#obsequentissime
 obse-quere#obsequere
 obse-queretur#obsequeretur
 obse-queris#obsequeris,
+plera-que#pleraque
+plerae-que#pleraeque
+pleri-que#plerique
+pleris-que#plerisque
+pleros-que#plerosque
+plerum-que#plerumque
 quacum-que#quacumque
 quae-que#quaeque
 qualecum-que#qualecumque
@@ -29,4 +35,5 @@ se-quere#sequere
 se-querer#sequerer
 se-queretur#sequeretur
 se-queris#sequeris
+undi-que#undique
 utris-que#utrisque
