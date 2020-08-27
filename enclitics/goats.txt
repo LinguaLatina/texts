@@ -3,7 +3,7 @@ asse-quebamur#assequebamur
 asse-quebantu#assequebantur
 asse-quentur#assequentur
 asse-queris#assequeris
-conse-quemur#consequemur#
+conse-quemur#consequemur
 conse-quentur#consequentur
 ita-que#itaque
 obse-quebatur#obsequebatur
@@ -11,12 +11,12 @@ obse-quenter#obsequenter
 obse-quentissime#obsequentissime
 obse-quere#obsequere
 obse-queretur#obsequeretur
-obse-queris#obsequeris,
+obse-queris#obsequeris
 quacum-que#quacumque
 quae-que#quaeque
 qualecum-que#qualecumque
 qualiscum-que#qualiscumque
-quantulumcum-que#quantulumcumque,
+quantulumcum-que#quantulumcumque
 quemcum-que#quemcum#que
 se-quebantur#sequebantur
 se-quebatur#sequebatur
@@ -30,3 +30,9 @@ se-querer#sequerer
 se-queretur#sequeretur
 se-queris#sequeris
 utris-que#utrisque
+plera-que#pleraque
+plerae-que#pleraeque
+pleri-que#plerique
+pleris-que#plerisque
+pleros-que#plerosque
+plerum-que#plerosque

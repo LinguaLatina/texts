@@ -463,12 +463,6 @@ pingendas-que
 pingui-que
 plane-que
 plenus-que
-plera-que
-plerae-que
-pleri-que
-pleris-que
-pleros-que
-plerum-que
 plura-que
 plures-que
 pluribus-que
