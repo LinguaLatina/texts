@@ -35,4 +35,5 @@ se-quere#sequere
 se-querer#sequerer
 se-queretur#sequeretur
 se-queris#sequeris
+undi-que#undique
 utris-que#utrisque
