@@ -3,6 +3,8 @@ using CitableText
 using CitableCorpus
 using Orthography
 using LatinOrthography
+using SplitApplyCombine
+
 
 f = joinpath(pwd(), "texts", "latin23", "hyginus.cex")
 c = fromcex(f, CitableTextCorpus,FileReader)
